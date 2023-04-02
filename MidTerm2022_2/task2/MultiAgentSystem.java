@@ -10,12 +10,6 @@ public class MultiAgentSystem {
     public Agent[] getAgents() {
         return agents;
     }
-    public void setGeneratedId(int generatedId) {
-        this.generatedId = generatedId;
-    }
-    public int getGeneratedId() {
-        return generatedId;
-    }
     public void setAgents(Agent[] agents) {
         this.agents = agents;
     }
